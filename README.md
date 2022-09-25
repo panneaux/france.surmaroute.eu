@@ -1,4 +1,4 @@
 # Les panneaux de Jean-Michel
 
-http://panneaux.github.io/test
+http://panneaux.github.io/france.surmaroute.eu
 
