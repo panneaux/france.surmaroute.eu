@@ -28,7 +28,7 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    run:
+    run: |
       sudo rm -rf "/usr/local/share/boost"
       sudo rm -rf "$AGENT_TOOLSDIRECTORY"
       docker rmi $(docker images -a -q)
