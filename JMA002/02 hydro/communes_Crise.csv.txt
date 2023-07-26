@@ -1,0 +1,14 @@
+CdCommune;LbCommune;
+02022;Arcy-Sainte-Restitue;
+02077;Berzy-le-Sec;
+02154;Chacrise;
+02226;Courmelles;
+02272;Droizy;
+02412;Launoy;
+02533;Muret-et-Crouttes;
+02536;Nampteuil-sous-Muret;
+02564;Noyant-et-Aconin;
+02663;Rozières-sur-Crise;
+02706;Septmonts;
+02722;Soissons;
+02770;Vauxbuin;

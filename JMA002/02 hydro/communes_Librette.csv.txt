@@ -1,0 +1,5 @@
+CdCommune;LbCommune;
+02295;Étréaupont;
+02337;Froidestrées;
+02342;Gergny;
+02725;Sommeron;

@@ -1,0 +1,18 @@
+CdCommune;LbCommune;
+02069;Berlise;
+02160;Chaourse;
+02433;Lislet;
+02502;Montcornet;
+02519;Montloué;
+02556;Noircourt;
+08113;Chaumont-Porcien;
+08178;Fraillicourt;
+08272;Maranwez;
+08307;Montmeillant;
+08360;Renneville;
+08366;Rocquigny;
+08369;La Romagne;
+08372;Rubigny;
+08382;Saint-Jean-aux-Bois;
+08419;Signy-l'Abbaye;
+08465;Vaux-lès-Rubigny;

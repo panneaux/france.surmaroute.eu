@@ -1,0 +1,10 @@
+CdCommune;LbCommune;
+02146;Celles-lès-Condé;
+02209;Condé-en-Brie;
+02458;Dhuys et Morin-en-Brie;
+02515;Montigny-lès-Condé;
+02518;Montlevon;
+02590;Pargny-la-Dhuys;
+51175;Corrobert;
+51304;Janvilliers;
+51380;Montmirail;

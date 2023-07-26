@@ -1,0 +1,6 @@
+CdCommune;LbCommune;
+02331;Franqueville;
+02401;Laigny;
+02681;Saint-Gobert;
+02688;Saint-Pierre-lès-Franqueville;
+02826;Voulpaix;

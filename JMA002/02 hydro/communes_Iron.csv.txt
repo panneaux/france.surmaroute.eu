@@ -1,0 +1,11 @@
+CdCommune;LbCommune;
+02135;Buironfosse;
+02269;Dorengt;
+02286;Esquéhéries;
+02312;La Flamengrie;
+02366;Hannapes;
+02386;Iron;
+02414;Lavaqueresse;
+02419;Leschelle;
+02558;Le Nouvion-en-Thiérache;
+02779;Vénérolles;

@@ -1,0 +1,6 @@
+CdCommune;LbCommune;
+02058;Beaurieux;
+02252;Cuissy-et-Geny;
+02396;Jumigny;
+02578;Oulches-la-Vallée-Foulon;
+02764;Vassogne;

@@ -1,0 +1,6 @@
+CdCommune;LbCommune;
+02031;Aubenton;
+02055;Beaumé;
+02079;Besmont;
+02388;Iviers;
+02470;Martigny;

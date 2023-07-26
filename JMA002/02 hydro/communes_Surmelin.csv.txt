@@ -1,0 +1,18 @@
+CdCommune;LbCommune;
+02053;Vallées en Champagne;
+02146;Celles-lès-Condé;
+02166;Chartèves;
+02213;Connigis;
+02239;Crézancy;
+02484;Mézy-Moulins;
+02510;Monthurel;
+02677;Saint-Eugène;
+51085;Le Breuil;
+51174;Corribert;
+51327;Loisy-en-Brie;
+51345;Mareuil-en-Brie;
+51381;Montmort-Lucy;
+51416;Orbais-l'Abbaye;
+51560;Suizy-le-Franc;
+51612;Blancs-Coteaux;
+51639;La Ville-sous-Orbais;
