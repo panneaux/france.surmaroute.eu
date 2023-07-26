@@ -30,7 +30,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: sudo rm -rf "/usr/local/share/boost"
-      - run: sudo rm -rf "$AGENT_TOOLSDIRECTORY" &&
+      - run: sudo rm -rf "$AGENT_TOOLSDIRECTORY"
       - run: docker rmi $(docker images -a -q)
       - name: Checkout
         uses: actions/checkout@v3
