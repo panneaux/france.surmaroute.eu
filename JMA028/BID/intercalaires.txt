@@ -1,0 +1,6 @@
+<tr><td rowspan="2">Limite avec l'Eure-et-Loir</td>
+</tr><tr><td>Limite avec le Loiret</td>
+</tr> <tr><td>Limite avec la Sarthe</td>
+</tr> <tr><td>Limite avec les Yvelines</td>
+<tr><td>Limite avec l'Essonne</td></tr>
+  <tr>

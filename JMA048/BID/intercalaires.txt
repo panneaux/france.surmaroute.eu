@@ -1,0 +1,8 @@
+<tr><td>Limite avec l'Aveyron</td>
+<tr><td>Limite avec l'Ardèche</td>
+</tr><tr><td>Limite avec la Haute-Loire</td>
+</tr><tr><td>Limite avec le Gard</td>
+</tr><tr><td>Limite avec le Cantal</td>
+
+</tr>
+<tr>
